@@ -32,7 +32,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditmshah&show_icons=true&locale=en&layout=compact" alt="aaditmshah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditmshah&show_icons=true&locale=en&layout=compact" alt="aaditmshah" /></p><br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditmshah&show_icons=true&locale=en" alt="aaditmshah" /></p>
 
