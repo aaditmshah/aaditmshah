@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditmshah&column=-1" alt="aaditmshah" /></a> </p>
 
-- 🔭 I’m currently working on [Ivory ESLint Config](https://github.com/aaditmshah/eslint-config-ivory)
+- 🔭 I’m currently working on [Typecraft](https://github.com/aaditmshah/typecraft) and [Ivory ESLint Config](https://github.com/aaditmshah/eslint-config-ivory)
 
 - 🌱 I’m currently learning **ESLint, Tailwind, and Next.js**
 
